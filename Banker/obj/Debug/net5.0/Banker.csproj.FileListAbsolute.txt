@@ -1,0 +1,15 @@
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/Banker.deps.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/Banker.runtimeconfig.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/Banker.runtimeconfig.dev.json
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/Banker.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/ref/Banker.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/bin/Debug/net5.0/Banker.pdb
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.csproj.AssemblyReference.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.AssemblyInfoInputs.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.AssemblyInfo.cs
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.csproj.CoreCompileInputs.cache
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/ref/Banker.dll
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.pdb
+/Users/simonkinch/DREAMCAST/CODING/2021-10-21-C#/Banker/obj/Debug/net5.0/Banker.genruntimeconfig.cache
